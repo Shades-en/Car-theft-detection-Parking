@@ -39,8 +39,6 @@ while True:
     #     cv2.rectangle(img, (x, y), (x + width, y + height), (255, 0, 255), 2)
     #     x+= int(width*1.0476191) 
         
-    # cv2.rectangle(img, (x, y), (x + width, y + height), (255, 0, 255), 2)
-    # cv2.rectangle(img, (x + width, y), (x + 2*width, y + height), (255, 0, 255), 2)
     cv2.imshow("Image", img)
     cv2.setMouseCallback("Image", mouseClick)
     if cv2.waitKey(1) & 0xFF==ord('d'):
