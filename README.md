@@ -61,5 +61,5 @@ scan the required barcode(through webcam window) to allow/disallow vehicles with
 
 * [Jeevika Kiran](https://github.com/JeevikaK)
 * [Maitri P Tadas](https://github.com/maitript)
-* [Prapti Bopana](/)
+* [Prapti Bopana](https://gitHub.com/PBopana)
 
