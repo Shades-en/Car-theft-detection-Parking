@@ -1,7 +1,7 @@
-#Automated Way of Vehicle Theft Detection in Parking Facilities
+# Automated Way of Vehicle Theft Detection in Parking Facilities
 Security of parked cars against theft is a long existing concern. We present an automated way of detecting vehicle theft as it happens using moving object detection and barcode scanning for each parking entry. The detected edges of the output should give a clear image of the moving object from the video. The security personnel or the parking lot operator gets notified about the movement.
 
-Installation
+## Installation
 The above project has been made with python version==3.11
 
 Clone the repo
@@ -26,10 +26,10 @@ Run the file parkSpace2.py
     py parkSpace2.py
 scan the required barcode(through webcam window) to allow/disallow vehicles with approriate parking space ID
 
-Key Libraries
+## Key Libraries
 Open CV Pyzbar
 
-Contributing
+## Contributing
 Jeevika Kiran
 Maitri P Tadas
 Prapti Bopana
